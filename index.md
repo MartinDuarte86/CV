@@ -1,6 +1,9 @@
 ## Welcome to GitHub Pages
 
-Linea de ejemplo ....kji
+Linea de ejemplo
+
+Segunda Linea de ejemplos
+
 
 You can use the [editor on GitHub](https://github.com/MartinDuarte86/CV/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
