@@ -42,9 +42,9 @@ body{ font-size: 16px; font-family: 'Poppins', serif; width: 100%; margin: 0;
 	font-weight: 400; word-wrap: break-word; color: #333; 
 	-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-h1, h2, h3, h4, h5, h6, p, a, ul, span, li, img, inpot, button{ margin: 0; padding: 0; }
+h1, h2, h3, h4, h5, h6,h7, p, a, ul, span, li, img, inpot, button{ margin: 0; padding: 0; }
 
-h1,h2,h3,h4,h5,h6{ line-height: 1.5; font-weight: inherit; }
+h1,h2,h3,h4,h5,h6,h7{ line-height: 1.5; font-weight: inherit; }
 
 h1,h2,h3{ font-family: 'Poppins', cursive; }
 
@@ -56,6 +56,7 @@ h3{ font-size: 1.8em; }
 h4{ font-size: 1.3em; }
 h5{ font-size: 1em; }
 h6{ font-size: .9em; letter-spacing: 1px; }
+h7{ font-size: .9em; margin-left: 50% ; letter-spacing: 1px; }
 
 a, button{ display: inline-block; text-decoration: none; color: inherit; line-height: 1; 
 	-webkit-transition: all .25s ease-in-out; transition: all .25s ease-in-out; }
@@ -94,7 +95,7 @@ b.max-bold{ font-weight: 700; }
 	margin: 0 auto 20px; display: block; background: #FFA804; }
 	
 .margin-t-10{ margin-top: 10px; }
-.margin-t-30{ margin-top: 30px; }
+.margin-t-30{ margin-top: 30px;  }
 
 .margin-b-20{ margin-bottom: 20px; }
 .margin-b-30{ margin-bottom: 30px; }
@@ -124,7 +125,8 @@ b.max-bold{ font-weight: 700; }
 	right: 0; background: rgba(0,0,0, .2); }
 
 	
-/* HEADER */
+/* HEADER */
+
 .intro-section .heading-wrapper{ border-radius: 5px; padding: 30px 40px 20px; margin-bottom: 50px;
 	background: #FFAD01; color: #fff; }
 
