@@ -259,9 +259,25 @@ b.max-bold{ font-weight: 700; }
 --------------------------------- */
 
 .skills-section .expert{ margin-top: 10px; display: inline-block; padding: 1px 25px 0; 
+	border-radius: 5px; background: rgb(102, 255, 0); color: #fff; }
+
+	
+.skills-section .Intermedio {margin-top: 10px; display: inline-block; padding: 1px 25px 0; 
 	border-radius: 5px; background: #FFAB00; color: #fff; }
 
 	
+.skills-section .Basico{margin-top: 10px; display: inline-block; padding: 1px 25px 0; 
+	border-radius: 5px; background: rgb(255, 51, 0); color: #fff; }
+
+
+
+
+
+
+
+
+
+
 /* LINE PROGRESSBAR */
 	
 .line-progress{ position: relative; padding-bottom: 25px; }
